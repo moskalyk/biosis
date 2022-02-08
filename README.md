@@ -1,7 +1,7 @@
 # 🧬 biosis 🃏
 Validator nodes have the ability to set a public record for block proposals on a network. I've yet to see this be used in a creative or useful way.
 
-Question: Can hardware validators for certain blockchains include other types of staking methods to publically showcase the collective intelligence of a network, like that of what makes humans unique.
+Question: Can hardware validators for certain blockchains include other types of staking methods to publically showcase the collective intelligence of a network, like that of what makes humans unique. Since Gnosis Chain will be working ~ 2 weeks ahead of the Ethereum Beacon Chain, validators also become 'downstream' Oracles for other people in the ecosystem?
 
 Graffiti comes from the Italian word graffere, which means 'to scratch on a surface.' This 'scratching' can be done on any surface with any implement, permanent or not.
 
@@ -20,3 +20,5 @@ The point is to get into a ritual for readings & stake some peice of bio-data.
 ## Use Cases
 I like to think of staking as a method of putting some peice of 'worth' on the line for movements in direction. You take stake on where you live. But what if we can use this public staking record to do more, with possibly building new community digital spaces or decentralized medical institutions for the purpose of using additional bits of information to vote on matters for the sake of public good.
 
+## Example Visual
+![./planes](./planes.png)
