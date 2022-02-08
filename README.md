@@ -22,3 +22,7 @@ I like to think of staking as a method of putting some peice of 'worth' on the l
 
 ## Example Visual
 ![./planes](./planes.png)
+
+Epoch to epoch, collective frequencies hold validation together.
+
+Who wants to play?
